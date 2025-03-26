@@ -1,0 +1,11 @@
+select in the lunix make a arranged list 
+source(path) ==> make run in the same script 
+read name_a_varible ==> 
+grep => to make seach eny thing 
+ls -F | grep / | tr / " " ==> gat all  and fiter using grep / ,, tr / => using to replace 
+================
+array=(`ls -F | grep / | tr / " "`)
+# echo ${#array[*]} ==> using to print all database 
+==============
+*[[:space:]] | *[[:space:]]* | [[:space:]]* ==== frist space/ center space / end space 
+=====================
