@@ -14,7 +14,7 @@ while true
 do 
 # read the input
 read -p "
-inter different name for your new table : 
+Enter different name for your new table : 
 "
  table_name=$REPLY
 

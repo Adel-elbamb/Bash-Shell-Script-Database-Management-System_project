@@ -9,3 +9,4 @@ array=(`ls -F | grep / | tr / " "`)
 ==============
 *[[:space:]] | *[[:space:]]* | [[:space:]]* ==== frist space/ center space / end space 
 =====================
+sed -i '/'$row'/d' $table_name // === edit 

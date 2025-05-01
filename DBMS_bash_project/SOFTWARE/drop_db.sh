@@ -2,7 +2,7 @@
 
 cd ../DATA_Do_NOT_EREASE 
 
-PS3="  Type your Table number to Drop : "
+# PS3="  Type your Table number to Drop : "
 
 echo
 echo "-----> Select your Table number from the menu <--------"

@@ -1,15 +1,9 @@
 #!/usr/bin/bash
 
-# get table name
-
-
 echo "
 -----> Select your Table number from the menu <--------
 "
 array=(`ls`)
-
-
-# echo ${#array[*]}
 
 select choice in  ${array[*]}
 do

@@ -1,6 +1,6 @@
 #!/usr/bin/bash
 #create_database
-echo "----------------------------"
+echo "------------adel----------------"
 echo "Already exist databases..."
 cd ../DATA_Do_NOT_EREASE 
 
@@ -11,7 +11,7 @@ echo "                               "
 while true
 do 
 # read the input
-read -p "inter different name for your new database : "
+read -p "Enter different name for your new database : "
  db_name=$REPLY
 
 case $db_name in
